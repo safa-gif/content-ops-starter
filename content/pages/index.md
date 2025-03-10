@@ -164,7 +164,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Any life admin that ends up on your mental list and you don't have a
           chance to do, we can cover that for you. Whether it be sourcing
