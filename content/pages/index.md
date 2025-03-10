@@ -544,7 +544,9 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: ''
+        title: >-
+          We request a list of things you want done in priority order for our
+          staff to complete the tasks in the requested time frame. 
         tagline: ''
         subtitle: ''
         text: ''
