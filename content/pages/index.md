@@ -176,7 +176,7 @@ sections:
           borderWidth: 0
           margin:
             - mb-4
-            - mt-4
+            - mt-10
             - ml-6
             - mr-6
   - type: GenericSection
