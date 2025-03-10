@@ -85,10 +85,9 @@ sections:
         type: FeaturedItem
       - title: NOURISH
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Allow us to come into your kitchen and can cook with whatever you have
+          to either make some meals or freeze some meals for the family.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
