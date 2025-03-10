@@ -134,13 +134,13 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: PRESENCE
+        title: ERRANDS
         subtitle: ''
         text: >
-          It can be isolating becoming a new mum or parent and being at home
-          with a little one. If you need company for a chat, advice from a
-          mother or some time for your you and your child to spend with others,
-          we could arrange this for you.
+          Any life admin that ends up on your mental list and you don't have a
+          chance to do, we can cover that for you. Whether it be sourcing
+          different products from grocers/shops, local deliveries, rearranging a
+          cupboard etc.
         image:
           type: ImageBlock
           url: /images/icon1.svg
@@ -163,13 +163,13 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: ERRANDS
+        title: PRESENCE
         subtitle: ''
         text: >
-          Any life admin that ends up on your mental list and you don't have a
-          chance to do, we can cover that for you. Whether it be sourcing
-          different products from grocers/shops, local deliveries, rearranging a
-          cupboard etc.
+          It can be isolating becoming a new mum or parent and being at home
+          with a little one. If you need company for a chat, advice from a
+          mother or some time for your you and your child to spend with others,
+          we could arrange this for you.
         image:
           type: ImageBlock
           url: /images/icon1.svg
