@@ -195,10 +195,13 @@ sections:
         title: INTERACTION
         subtitle: ''
         text: |
-          Chatty and engaging
-          Balanced
-          Quiet and reserved
-          Minimal interaction
+          *   Chatty and engaging
+
+          *   Balanced
+
+          *   Quiet and reserved
+
+          *   Minimal interaction
 
           Whatever you need us to be.
         image:
