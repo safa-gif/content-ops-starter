@@ -12,7 +12,7 @@ sections:
     subtitle: ''
     plans:
       - title: 60 Minutes
-        price: Free
+        price: $
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
