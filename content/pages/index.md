@@ -165,10 +165,11 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Any life admin that ends up on your mental list and you don't have a
+          chance to do, we can cover that for you. Whether it be sourcing
+          different products from grocers/shops, local deliveries, rearranging a
+          cupboard etc.
         image:
           type: ImageBlock
           url: /images/icon1.svg
