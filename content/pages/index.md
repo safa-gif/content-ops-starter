@@ -485,7 +485,7 @@ sections:
       subtitle:
         textAlign: center
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Things you should know about us
     items:
       - type: FeaturedItem
         title: >-
