@@ -206,7 +206,7 @@ sections:
           Whatever you need us to be.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/the village you didn’t know you needed-8.png
           altText: Placeholder text
           elementId: ''
           styles:
