@@ -175,7 +175,7 @@ sections:
           borderRadius: medium
           borderWidth: 0
           margin:
-            - mb-4
+            - mb-10
             - mt-10
             - ml-6
             - mr-6
