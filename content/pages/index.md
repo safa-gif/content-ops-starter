@@ -137,8 +137,11 @@ sections:
         title: ERRANDS
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Any life admin that ends up on your mental list and you don't have a
+          chance to do, we can cover that for you. Whether it be sourcing
+          different products from grocers/shops, local deliveries, rearranging a
+          cupboard etc.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
