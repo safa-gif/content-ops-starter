@@ -163,7 +163,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 500k
+        title: ERRANDS
         subtitle: ''
         text: >
           Any life admin that ends up on your mental list and you don't have a
