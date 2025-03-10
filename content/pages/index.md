@@ -28,7 +28,7 @@ sections:
       styles:
         self:
           margin:
-            - ml-48
+            - ml-40
             - mr-48
             - mt-10
             - mb-10
