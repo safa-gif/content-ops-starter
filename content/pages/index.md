@@ -163,10 +163,11 @@ sections:
       - type: FeaturedItem
         title: PRESENCE
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          It can be isolating becoming a new mum or parent and being at home
+          with a little one. If you need company for a chat, advice from a
+          mother or some time for your you and your child to spend with others,
+          we could arrange this for you.
         image:
           type: ImageBlock
           url: /images/icon1.svg
