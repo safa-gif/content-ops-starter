@@ -38,7 +38,7 @@
         }
     ],
     "secondaryLinks": [],
-    "variant": "logo-centered-primary-nav-centered",
+    "variant": "logo-left-primary-nav-right",
     "colors": "bg-neutral-fg-dark",
     "type": "Header",
     "styles": {
