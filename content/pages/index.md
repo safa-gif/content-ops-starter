@@ -27,6 +27,10 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      styles:
+        self:
+          margin:
+            - ml-64
     badge:
       label: WE ARE MUMS THAT CARE FOR MUMS
       color: text-primary
