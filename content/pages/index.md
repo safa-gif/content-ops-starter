@@ -167,7 +167,7 @@ sections:
     type: GenericSection
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/When women support each other incredible things can happen.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
