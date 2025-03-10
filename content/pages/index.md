@@ -7,7 +7,9 @@ sections:
       type: TitleBlock
       text: We are here to help
       color: text-dark
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Compassionate in-home support for new or juggling parents-- providing a
+      helping hand when you need it the most.
     text: |
       ....
     actions:
