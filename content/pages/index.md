@@ -178,6 +178,7 @@ sections:
             - mb-4
             - mt-4
             - ml-6
+            - mr-6
   - type: GenericSection
     title:
       text: Generic section with a video
