@@ -333,10 +333,8 @@ sections:
       - title: ..
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          ..
         image:
           url: /images/img-placeholder-dark.png
           altText: Jane Doe
