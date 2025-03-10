@@ -266,7 +266,10 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: ....
+      text: >-
+        Behind every family there use to be a village. A community of people
+        that would help raise children. Today it's becoming harder for this to
+        happen. Let us to bring our village to you.
       color: text-dark
       styles:
         self:
