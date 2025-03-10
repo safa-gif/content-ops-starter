@@ -60,10 +60,10 @@ sections:
     items:
       - title: TIME OUT
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Take a break and some time to yourself whether it be to have a shower
+          and reset or leave the home for some fresh air and we will look after
+          your bubba.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
