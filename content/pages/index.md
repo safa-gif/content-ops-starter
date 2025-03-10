@@ -134,7 +134,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Feature Item One
+        title: ERRANDS
         tagline: ''
         subtitle: This is the item subtitle
         text: |
