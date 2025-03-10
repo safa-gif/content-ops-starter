@@ -89,7 +89,7 @@ sections:
           Allow us to come into your kitchen and can cook with whatever you have
           to either make some meals or freeze some meals for the family.
         image:
-          url: /images/icon3.svg
+          url: /images/the village you didn’t know you needed-12.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
