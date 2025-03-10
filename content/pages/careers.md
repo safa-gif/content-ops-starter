@@ -62,7 +62,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        tagline: 'All Staff Members Have:'
+        tagline: ''
         subtitle: ''
         text: |+
           *   Formal identification
