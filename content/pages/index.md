@@ -581,7 +581,7 @@ sections:
       text: Got a question?
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: |
       ...
     media:
