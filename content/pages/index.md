@@ -76,7 +76,6 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/the village you didn’t know you needed-7.png
           styles:
             self:
               borderRadius: x-large
