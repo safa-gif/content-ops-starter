@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: ''
     text: >
       There are many various open positions at Nest to Nurture. If you would
       like to join our village please send us your resume and cv letter.
