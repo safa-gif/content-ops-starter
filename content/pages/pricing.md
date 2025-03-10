@@ -3,7 +3,7 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: We Work Catering To You
+      text: Comfort Menu - Catered to YOU
       color: text-dark
       styles:
         self:
