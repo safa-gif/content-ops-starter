@@ -174,6 +174,8 @@ sections:
         self:
           borderRadius: medium
           borderWidth: 0
+          margin:
+            - mb-4
   - type: GenericSection
     title:
       text: Generic section with a video
