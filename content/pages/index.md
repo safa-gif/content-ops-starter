@@ -193,7 +193,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: HOW DO WE BENEFIT YOU
       color: text-primary
       styles:
         self:
