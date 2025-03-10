@@ -544,7 +544,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
+        title: "All staff will have copies of\_Formal identificationFood Handler Basics Training from NSW Food AuthorityWorking with Children CheckDrivers licence with no restrictionsfit2work Nationally Coordinated Criminal History Check"
         tagline: ''
         subtitle: ''
         text: ''
