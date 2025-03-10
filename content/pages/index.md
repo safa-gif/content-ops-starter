@@ -517,6 +517,33 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
+        title: >-
+          we do not bring supplies- we believe it is most sanitary for you and
+          your family for us to use what is already in your home and not share
+          it between households
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          altText: Jane Doe
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
         title: Business Consulting
         tagline: Feature 2
         subtitle: Be in good company
@@ -532,33 +559,6 @@ sections:
           styles:
             self:
               borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: >-
-          we do not bring supplies- we believe it is most sanitary for you and
-          your family for us to use what is already in your home and not share
-          it between households
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
         actions: []
         colors: bg-dark-fg-light
         styles:
