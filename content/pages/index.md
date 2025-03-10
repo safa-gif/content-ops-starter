@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: We are here to help
       color: text-dark
     subtitle: Subtitle goes here
     text: |
