@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     plans:
-      - title: Developers
+      - title: 60 Minutes
         price: Free
         details: No credit card required
         description: >-
