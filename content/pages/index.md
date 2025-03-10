@@ -143,7 +143,7 @@ sections:
           cupboard etc.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/the village you didn’t know you needed-10.png
           altText: Placeholder text
           elementId: ''
           styles:
