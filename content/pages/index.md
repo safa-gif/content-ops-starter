@@ -276,8 +276,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |
-      ....
+    text: ''
     badge:
       label: HOW DO WE BENEFIT YOU
       color: text-primary
