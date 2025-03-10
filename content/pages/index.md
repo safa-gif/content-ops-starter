@@ -29,7 +29,7 @@ sections:
         self:
           margin:
             - ml-40
-            - mr-48
+            - mr-40
             - mt-10
             - mb-10
     badge:
