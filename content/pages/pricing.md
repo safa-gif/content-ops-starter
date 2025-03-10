@@ -3,7 +3,7 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: We Work Catering To You
       color: text-dark
       styles:
         self:
