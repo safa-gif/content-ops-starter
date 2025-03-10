@@ -194,10 +194,13 @@ sections:
       - type: FeaturedItem
         title: INTERACTION
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Chatty and engaging
+          Balanced
+          Quiet and reserved
+          Minimal interaction
+
+          Whatever you need us to be.
         image:
           type: ImageBlock
           url: /images/icon1.svg
