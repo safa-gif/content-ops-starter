@@ -61,7 +61,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: ''
+        title: 'All Staff Members Have:'
         tagline: ''
         subtitle: ''
         text: |+
