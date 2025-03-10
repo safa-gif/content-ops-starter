@@ -130,7 +130,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: You can trust us
+  - subtitle: ''
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
