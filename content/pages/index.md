@@ -10,8 +10,7 @@ sections:
     subtitle: >-
       Compassionate in-home support for new or juggling parents-- providing a
       helping hand when you need it the most.
-    text: |
-      ....
+    text: ''
     actions:
       - label: Book Now
         altText: ''
