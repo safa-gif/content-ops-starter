@@ -488,12 +488,7 @@ sections:
     subtitle: Things you should know about us
     items:
       - type: FeaturedItem
-        title: >-
-          We’re more than just a cleaning or food service—we’re a team of local
-          women providing care, comfort, and support. Our goal is to make you
-          feel at ease in your own home, never awkward or uncomfortable. With
-          us, you get more than a service—you get a trusted support system.
-          That’s why we charge more—because we offer more.
+        title: .
         tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
