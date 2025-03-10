@@ -521,7 +521,7 @@ sections:
           we do not bring supplies- we believe it is most sanitary for you and
           your family for us to use what is already in your home and not share
           it between households
-        tagline: Testimonial 2
+        tagline: ''
         subtitle: ''
         text: ''
         image:
