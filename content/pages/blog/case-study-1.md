@@ -1,5 +1,5 @@
 ---
-title: testomanoy
+title: testimony
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
