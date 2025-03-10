@@ -134,33 +134,6 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: ERRANDS
-        tagline: ''
-        subtitle: ''
-        text: >
-          Any life admin that ends up on your mental list and you don't have a
-          chance to do, we can cover that for you. Whether it be sourcing
-          different products from grocers/shops, local deliveries, rearranging a
-          cupboard etc.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-      - type: FeaturedItem
         title: PRESENCE
         subtitle: ''
         text: >
