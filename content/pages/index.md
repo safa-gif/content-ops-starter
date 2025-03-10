@@ -582,8 +582,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |
-      ...
+    text: >
+      If you have any questions, please fill out the form and we will get back
+      to you as soon as possible.
     media:
       fields:
         - name: name
