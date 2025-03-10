@@ -3,20 +3,19 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: Comfort Menu - Catered to YOU
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: ''
     plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+      - title: 60 Minutes
+        price: $
+        details: ''
+        description: |
+          ...
         features:
           - Feature one
           - Feature two
@@ -43,12 +42,11 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
-        price: $99
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+      - title: 90 Minutes
+        price: $
+        details: ''
+        description: |
+          ...
         features:
           - Feature one
           - Feature two
@@ -75,12 +73,11 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Enterprise
-        price: Custom
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+      - title: 120 Minutes
+        price: $
+        details: ''
+        description: |
+          ...
         features:
           - Feature one
           - Feature two
