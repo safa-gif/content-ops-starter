@@ -173,7 +173,7 @@ sections:
       styles:
         self:
           borderRadius: medium
-          borderWidth: 2
+          borderWidth: 0
   - type: GenericSection
     title:
       text: Generic section with a video
