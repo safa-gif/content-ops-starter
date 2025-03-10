@@ -32,6 +32,7 @@ sections:
             - mr-40
             - mt-10
             - mb-10
+      url: /images/Helping Hand.png
     badge:
       label: WE ARE MUMS THAT CARE FOR MUMS
       color: text-primary
