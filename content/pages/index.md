@@ -108,10 +108,10 @@ sections:
       - type: FeaturedItem
         title: REFRESH
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Do some tidying, cleaning or reorganisation at your request- whether
+          it be a cleaning pumping equipment, doing a house clean, vacuum, mop
+          etc.
         image:
           type: ImageBlock
           url: /images/icon1.svg
