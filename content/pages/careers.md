@@ -58,7 +58,7 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: >-
