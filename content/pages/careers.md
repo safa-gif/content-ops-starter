@@ -13,13 +13,7 @@ sections:
     text: >
       There are many various open positions at Nest to Nurture. If you would
       like to join our village please send us your resume and cv letter.
-    actions:
-      - label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
+    actions: []
     colors: bg-neutral-fg-dark
     styles:
       self:
