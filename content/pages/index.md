@@ -177,7 +177,7 @@ sections:
           margin:
             - mb-10
             - mt-10
-            - ml-6
+            - ml-14
             - mr-6
   - type: GenericSection
     title:
