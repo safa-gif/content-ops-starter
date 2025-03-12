@@ -65,7 +65,7 @@ sections:
           and reset or leave the home for some fresh air and we will look after
           your bubba.
         image:
-          url: /images/the village you didn’t know you needed-13.png
+          url: /images/the village you didn’t know you needed-14.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -89,7 +89,7 @@ sections:
           Allow us to come into your kitchen and can cook with whatever you have
           to either make some meals or freeze some meals for the family.
         image:
-          url: /images/the village you didn’t know you needed-12.png
+          url: /images/the village you didn’t know you needed-17.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -114,7 +114,7 @@ sections:
           etc.
         image:
           type: ImageBlock
-          url: /images/the village you didn’t know you needed-11.png
+          url: /images/the village you didn’t know you needed-16.png
           altText: Placeholder text
           elementId: ''
           styles:
@@ -143,7 +143,7 @@ sections:
           cupboard etc.
         image:
           type: ImageBlock
-          url: /images/the village you didn’t know you needed-10.png
+          url: /images/the village you didn’t know you needed-15.png
           altText: Placeholder text
           elementId: ''
           styles:
@@ -172,7 +172,7 @@ sections:
           we could arrange this for you.
         image:
           type: ImageBlock
-          url: /images/the village you didn’t know you needed-8.png
+          url: /images/the village you didn’t know you needed-19.png
           altText: Placeholder text
           elementId: ''
           styles:
@@ -206,7 +206,7 @@ sections:
           Whatever you need us to be.
         image:
           type: ImageBlock
-          url: /images/the village you didn’t know you needed-9.png
+          url: /images/the village you didn’t know you needed-18.png
           altText: Placeholder text
           elementId: ''
           styles:
@@ -495,7 +495,7 @@ sections:
             self:
               borderRadius: full
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
