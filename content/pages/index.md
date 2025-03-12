@@ -114,7 +114,7 @@ sections:
           etc.
         image:
           type: ImageBlock
-          url: /images/the village you didn’t know you needed-11.png
+          url: /images/the village you didn’t know you needed-16.png
           altText: Placeholder text
           elementId: ''
           styles:
