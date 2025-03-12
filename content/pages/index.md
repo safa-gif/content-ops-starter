@@ -172,7 +172,7 @@ sections:
           we could arrange this for you.
         image:
           type: ImageBlock
-          url: /images/the village you didn’t know you needed-8.png
+          url: /images/the village you didn’t know you needed-19.png
           altText: Placeholder text
           elementId: ''
           styles:
