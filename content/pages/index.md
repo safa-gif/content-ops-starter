@@ -65,7 +65,7 @@ sections:
           and reset or leave the home for some fresh air and we will look after
           your bubba.
         image:
-          url: /images/the village you didn’t know you needed-13.png
+          url: /images/the village you didn’t know you needed-14.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
